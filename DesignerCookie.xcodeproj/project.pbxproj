@@ -9,13 +9,22 @@
 /* Begin PBXBuildFile section */
 		C707CF392B40F1AE00B9C740 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF382B40F1AE00B9C740 /* AppDelegate.swift */; };
 		C707CF3B2B40F1AE00B9C740 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF3A2B40F1AE00B9C740 /* SceneDelegate.swift */; };
-		C707CF3D2B40F1AE00B9C740 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF3C2B40F1AE00B9C740 /* ViewController.swift */; };
+		C707CF3D2B40F1AE00B9C740 /* RawCookieChooserVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF3C2B40F1AE00B9C740 /* RawCookieChooserVC.swift */; };
 		C707CF402B40F1AE00B9C740 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C707CF3E2B40F1AE00B9C740 /* Main.storyboard */; };
 		C707CF422B40F1AF00B9C740 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C707CF412B40F1AF00B9C740 /* Assets.xcassets */; };
 		C707CF452B40F1AF00B9C740 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C707CF432B40F1AF00B9C740 /* LaunchScreen.storyboard */; };
 		C707CF502B40F1AF00B9C740 /* DesignerCookieTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF4F2B40F1AF00B9C740 /* DesignerCookieTests.swift */; };
 		C707CF5A2B40F1AF00B9C740 /* DesignerCookieUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF592B40F1AF00B9C740 /* DesignerCookieUITests.swift */; };
 		C707CF5C2B40F1AF00B9C740 /* DesignerCookieUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C707CF5B2B40F1AF00B9C740 /* DesignerCookieUITestsLaunchTests.swift */; };
+		C735EF522B47C4690077CB0F /* RawHeartVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735EF512B47C4690077CB0F /* RawHeartVC.swift */; };
+		C735EF542B47C48E0077CB0F /* RawStockingVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735EF532B47C48E0077CB0F /* RawStockingVC.swift */; };
+		C735EF562B47C49B0077CB0F /* RawSnowflakeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735EF552B47C49B0077CB0F /* RawSnowflakeVC.swift */; };
+		C735EF582B47C4A80077CB0F /* RawStarVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735EF572B47C4A80077CB0F /* RawStarVC.swift */; };
+		C735EF5A2B47C4C20077CB0F /* RawTreeVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C735EF592B47C4C20077CB0F /* RawTreeVC.swift */; };
+		C73D9B9D2B476B4B003D1D84 /* RawCircleVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C73D9B9C2B476B4B003D1D84 /* RawCircleVC.swift */; };
+		C7864A2F2B489BB100C46F88 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7864A2E2B489BB100C46F88 /* ViewController.swift */; };
+		C7864A312B489CAB00C46F88 /* SettingsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7864A302B489CAB00C46F88 /* SettingsVC.swift */; };
+		C7864A332B489E7200C46F88 /* FinishedCookiesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = C7864A322B489E7200C46F88 /* FinishedCookiesVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +48,7 @@
 		C707CF352B40F1AE00B9C740 /* DesignerCookie.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DesignerCookie.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C707CF382B40F1AE00B9C740 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C707CF3A2B40F1AE00B9C740 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		C707CF3C2B40F1AE00B9C740 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C707CF3C2B40F1AE00B9C740 /* RawCookieChooserVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawCookieChooserVC.swift; sourceTree = "<group>"; };
 		C707CF3F2B40F1AE00B9C740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		C707CF412B40F1AF00B9C740 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C707CF442B40F1AF00B9C740 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -49,6 +58,15 @@
 		C707CF552B40F1AF00B9C740 /* DesignerCookieUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DesignerCookieUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C707CF592B40F1AF00B9C740 /* DesignerCookieUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignerCookieUITests.swift; sourceTree = "<group>"; };
 		C707CF5B2B40F1AF00B9C740 /* DesignerCookieUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DesignerCookieUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		C735EF512B47C4690077CB0F /* RawHeartVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawHeartVC.swift; sourceTree = "<group>"; };
+		C735EF532B47C48E0077CB0F /* RawStockingVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawStockingVC.swift; sourceTree = "<group>"; };
+		C735EF552B47C49B0077CB0F /* RawSnowflakeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawSnowflakeVC.swift; sourceTree = "<group>"; };
+		C735EF572B47C4A80077CB0F /* RawStarVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawStarVC.swift; sourceTree = "<group>"; };
+		C735EF592B47C4C20077CB0F /* RawTreeVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawTreeVC.swift; sourceTree = "<group>"; };
+		C73D9B9C2B476B4B003D1D84 /* RawCircleVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RawCircleVC.swift; sourceTree = "<group>"; };
+		C7864A2E2B489BB100C46F88 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		C7864A302B489CAB00C46F88 /* SettingsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsVC.swift; sourceTree = "<group>"; };
+		C7864A322B489E7200C46F88 /* FinishedCookiesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FinishedCookiesVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,8 +119,17 @@
 			children = (
 				C707CF382B40F1AE00B9C740 /* AppDelegate.swift */,
 				C707CF3A2B40F1AE00B9C740 /* SceneDelegate.swift */,
-				C707CF3C2B40F1AE00B9C740 /* ViewController.swift */,
+				C707CF3C2B40F1AE00B9C740 /* RawCookieChooserVC.swift */,
 				C707CF3E2B40F1AE00B9C740 /* Main.storyboard */,
+				C7864A2E2B489BB100C46F88 /* ViewController.swift */,
+				C7864A322B489E7200C46F88 /* FinishedCookiesVC.swift */,
+				C7864A302B489CAB00C46F88 /* SettingsVC.swift */,
+				C73D9B9C2B476B4B003D1D84 /* RawCircleVC.swift */,
+				C735EF512B47C4690077CB0F /* RawHeartVC.swift */,
+				C735EF532B47C48E0077CB0F /* RawStockingVC.swift */,
+				C735EF552B47C49B0077CB0F /* RawSnowflakeVC.swift */,
+				C735EF572B47C4A80077CB0F /* RawStarVC.swift */,
+				C735EF592B47C4C20077CB0F /* RawTreeVC.swift */,
 				C707CF412B40F1AF00B9C740 /* Assets.xcassets */,
 				C707CF432B40F1AF00B9C740 /* LaunchScreen.storyboard */,
 				C707CF462B40F1AF00B9C740 /* Info.plist */,
@@ -258,9 +285,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C707CF3D2B40F1AE00B9C740 /* ViewController.swift in Sources */,
+				C7864A312B489CAB00C46F88 /* SettingsVC.swift in Sources */,
+				C707CF3D2B40F1AE00B9C740 /* RawCookieChooserVC.swift in Sources */,
+				C7864A2F2B489BB100C46F88 /* ViewController.swift in Sources */,
+				C735EF522B47C4690077CB0F /* RawHeartVC.swift in Sources */,
 				C707CF392B40F1AE00B9C740 /* AppDelegate.swift in Sources */,
 				C707CF3B2B40F1AE00B9C740 /* SceneDelegate.swift in Sources */,
+				C735EF5A2B47C4C20077CB0F /* RawTreeVC.swift in Sources */,
+				C73D9B9D2B476B4B003D1D84 /* RawCircleVC.swift in Sources */,
+				C735EF562B47C49B0077CB0F /* RawSnowflakeVC.swift in Sources */,
+				C735EF542B47C48E0077CB0F /* RawStockingVC.swift in Sources */,
+				C7864A332B489E7200C46F88 /* FinishedCookiesVC.swift in Sources */,
+				C735EF582B47C4A80077CB0F /* RawStarVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -442,10 +478,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HGBDTDLF34;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DesignerCookie/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cookie Designer";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -469,10 +507,12 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = HGBDTDLF34;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = DesignerCookie/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cookie Designer";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
-				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen.storyboard;
 				INFOPLIST_KEY_UIMainStoryboardFile = Main;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
