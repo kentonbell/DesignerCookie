@@ -6,7 +6,7 @@
 
 An iOS cookie-decorating game that turns a familiar baking sequence into a tactile, image-rich mobile experience. Players choose a cookie shape, bake it, add frosting and toppings, and revisit their finished creations.
 
-![Designer Cookie interaction demo](<images/Screen Recording 2026-09-12 at 4.21.24 PM-2.gif>)
+![Compact Designer Cookie interaction recording](<images/Screen Recording 2026-09-12 at 4.21.24 PMSmallandDon'tUse.gif>)
 
 ## Product experience
 
@@ -28,9 +28,9 @@ The interface uses original food photography, custom cookie artwork, and large d
 
 ![The opening screen invites the player to create or revisit cookies](<images/Screenshot 2026-09-12 at 4.10.34 PM.png>)
 
-The compact recording below shows the same core flow in a narrow mobile presentation.
 
-![Compact Designer Cookie interaction recording](<images/Screen Recording 2026-09-12 at 4.21.24 PMSmallandDon'tUse.gif>)
+
+
 
 ## Choosing and baking
 
